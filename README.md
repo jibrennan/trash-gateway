@@ -9,3 +9,4 @@ I insall a new SSD, insert a second stick of RAM (giving me 4GB), and load eithe
 
 The trash-gateway is a personal project for exploring and learning, and is about 95% full of beginner mistakes.  
 
+<img src="https://github.com/jibrennan/trash-gateway/blob/main/images/trash-gateway-light.png" alt="image of trash-gateway chassis" width="500" height="300">
