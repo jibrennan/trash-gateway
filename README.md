@@ -7,6 +7,6 @@ It usualy takes two or three of these to make one working unit, but what I'm lef
 
 I install a new SSD, insert a second stick of RAM (giving me 4GB), and load either Debian or Rocky linux depending on the need. 
 
-The trash-gateway is a personal project for exploring and learning, and is about 95% full of beginner mistakes. The idea is to make these all work together to form one platform, and helpo me understand and build scalable solutions with various cloud services. 
+The trash-gateway is a personal project for exploring and learning, and is about 95% full of beginner mistakes. The idea is to make these all work together to form one platform, and help me understand and build scalable solutions with various cloud services. 
 
 <img src="https://github.com/jibrennan/trash-gateway/blob/main/images/trash-gateway-light.png" alt="image of trash-gateway chassis" width="500" height="300">
